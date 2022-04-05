@@ -1,4 +1,5 @@
 export class ContaCorrente{
+    cliente;
     agencia;
     saldo =0;
 
@@ -12,9 +13,15 @@ export class ContaCorrente{
 
     depositar(valor){
         if(valor <= 0){
-            return; // early return - condição antecipada para o metodo parar caso for menor que 0
+            return; 
         }
 
         this.saldo += valor;      
+    }
+
+    transferir(valor, conta){
+        const valorSacado = this.sacar(valor);
+        conta.depositar(valorSacado);
+        
     }
 }
