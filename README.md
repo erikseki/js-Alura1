@@ -17,3 +17,21 @@ Repositório de Estudos de Js da Alura.
  </div>
 
 </br>
+
+## 🏁 Javascript - Programando a Orientado a Objeto
+####    Observar pelos commits 
+#### ✔️ pt1 <i><strong>att comportamentos de classes e Atributos Privados.</strong></i>
+#### ✔️ pt2 <i><strong>metodo de retorno.</strong></i>
+#### ✔️ pt3 <i><strong>Modulos package.json.</strong></i>
+#### ✔️ pt4 <i><strong>Composições de Classes -depositar.</strong></i>
+#### ✔️ pt5 <i><strong>Tipo de Valor e Tipo de Referência.</strong></i>
+#### ✔️ pt6 <i><strong>Null e Undefined.</strong></i>
+#### ✔️ pt7 <i><strong>Getters e Setters.</strong></i>
+#### ✔️ pt8 <i><strong>Construtores.</strong></i>
+#### ✔️ pt9 <i><strong>Atributos Estáticos.</strong></i>
+
+<br>
+
+## 💀 Javascript - Programando na Linguagem da Web
+#### ✔️ pt10 <i><strong>Olá Mundo.</strong></i>
+#### ✔️ pt11 <i><strong>QuerySelector.</strong></i>
